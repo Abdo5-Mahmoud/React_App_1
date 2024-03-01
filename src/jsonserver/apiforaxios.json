@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "name": "Abdullah", "city": "cairo" },
+    { "id": 2, "name": "Abdullah", "city": "cairo" },
+    { "id": 3, "name": "Abdullah", "city": "cairo" },
+    { "id": 4, "name": "Abdullah", "city": "cairo" },
+    { "id": 5, "name": "Abdullah", "city": "cairo" },
+    { "id": 6, "name": "Abdullah", "city": "cairo" }
+  ]
+}
